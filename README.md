@@ -1,4 +1,4 @@
-# Goodcitizenditgov
+# Goodcitizendotgov
 Learning the ol ' flow of gitz work 
 
 ## Lists and Interests
