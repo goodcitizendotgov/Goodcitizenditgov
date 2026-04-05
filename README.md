@@ -1,5 +1,6 @@
 # Goodcitizendotgov
-Learning the ol ' flow of gitz work 
+Learning the ol ' flow of gitz work
+ 
 
 ## Lists and Interests
 - Android
@@ -9,3 +10,5 @@ Learning the ol ' flow of gitz work
 - Rooting
 - Kernel flashing
 - Custom ROMs
+- The power of volunteer mentorship
+- Rise and unity of Noobs
